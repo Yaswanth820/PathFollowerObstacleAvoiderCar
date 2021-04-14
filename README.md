@@ -25,3 +25,7 @@ Components Used:-
   * Sensors:-
     * Two - IR Sensors
     * One - Ultrasonic Sensor
+
+
+I also uploaded the code and circuit diagram.
+You can find the code and images in my [repository]().
